@@ -1,0 +1,9 @@
+Package: com.joemerlino.notrackpad
+Name: NoTrackpad
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disables two fingers trackpad feature on iPad.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
